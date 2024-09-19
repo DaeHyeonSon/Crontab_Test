@@ -1,0 +1,4 @@
+// 오전 7시에 create_folder.sh 실행
+0 7 * * *  /home/username/create_folder.sh >/dev/null 2>&1
+// 오후 11시 59분에 move_files.sh 실행
+59 23 * * * /home/username/move_files.sh >/dev/null 2>&1 
