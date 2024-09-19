@@ -52,6 +52,5 @@ find "$SOURCE_DIR" -type f -newermt $(date +%Y-%m-%d) ! -newermt $(date +%Y-%m-%
 
 # 결과 
 
-<img src="https://files.slack.com/files-pri/T07A2GQ9JPP-F07N3GBQWBV/image.png"  width="700"/>
-</br>
-<img src="https://files.slack.com/files-pri/T07A2GQ9JPP-F07MP1ZMLHM/image.png"  width="700"/>
+![크론탭 설정 이미지 1](crontab_image/image.png)
+![크론탭 설정 이미지 2](crontab_image/image2.png)
