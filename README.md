@@ -49,3 +49,9 @@ find "$SOURCE_DIR" -type f -newermt $(date +%Y-%m-%d) ! -newermt $(date +%Y-%m-%
 // 오후 11시 59분에 move_files.sh 실행
 59 23 * * * /home/username/move_files.sh >/dev/null 2>&1 
 ```
+
+# 결과 
+
+<img src="https://files.slack.com/files-pri/T07A2GQ9JPP-F07N3GBQWBV/image.png"  width="700"/>
+</br>
+<img src="https://files.slack.com/files-pri/T07A2GQ9JPP-F07MP1ZMLHM/image.png"  width="700"/>
