@@ -1,8 +1,17 @@
 # Crontab_Test 💪
 Crontab을 활용한 TIL(Today I Learned) 정리
 
+<h2 style="font-size: 25px;"> 동료 👨‍👨‍👧 <br>
+</h2>
+
+|<img src="https://avatars.githubusercontent.com/u/81280628?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/86951396?v=4" width="150" height="150"/>
+|:-:|:-:|
+|[@손대현](https://github.com/DaeHyeonSon)|[@이아영](https://github.com/ayleeee)|
+---
+<br>
+
 # 개요📢
-하루동안의 Woori Fisa 수업과정을 통해 나온 결과물들을 하나의 폴더에 하루마다 저장하여 정리해주는 자동화 시스템을 만들어보고자 하여 기획하게 되었습니다.
+하루동안의 Woori Fisa 수업과정을 통해 나온 결과물들을 하루마다 하나의 폴더에 저장하여 정리해주는 자동화 시스템을 만들어 보고자 하여 기획하게 되었습니다.
 
 # 폴더 생성 sh 생성 🔨
 ```bash
